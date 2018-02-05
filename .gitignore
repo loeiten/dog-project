@@ -2,6 +2,7 @@
 dogImages/
 lfw/
 .ipynb_checkpoints/
+.idea/
 *.npz
 *.hdf5
 
