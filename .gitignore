@@ -5,6 +5,7 @@ lfw/
 .idea/
 *.npz
 *.hdf5
+*.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
